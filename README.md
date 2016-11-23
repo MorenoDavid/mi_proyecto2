@@ -78,6 +78,6 @@ Y citas:
 
 Listas de chequeo:
 
-- [] rhsdtnt
+- [ ] rhsdtnt
 - [x] gjiigh
-- [] 85789
+- [ ] 85789
