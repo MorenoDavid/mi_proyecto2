@@ -27,3 +27,26 @@ También en Markdown puedes poner código de cualquier lenguaje:
 ```
 
 Además puedes poner código en una misma línea: `gir comit -m "corregido fallo 6581"`
+
+
+Dispone de lista ordenadas:
+
+1. Tristana.
+2. Ashe.
+3. Shivir.
+
+Y listas no ordenadas:
+
+* Tristana.
+* Ashe.
+* Shivir.
+
+Listas anidadas:
+
+1. akjegad
+    *rhgwer
+    *rhwerh
+     *jkfbhvsd
+2. segrher
+    *rghwet
+    *asrgqer
