@@ -52,3 +52,7 @@ Listas anidadas:
     * asrgqer
     
 Permite poner [enlaces a paginas web](https://aulavirtual.iesciudadjardin.es/), incluso UR; https://aulavirtual.iesciudadjardin.es/ 
+
+Tambien se pueden poner imagenes:
+
+![imagen] (http://cdn01.ib.infobae.com/adjuntos/162/imagenes/014/014/0014014674.jpg 'Imagen ardilla')
