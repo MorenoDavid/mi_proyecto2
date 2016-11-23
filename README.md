@@ -56,3 +56,10 @@ Permite poner [enlaces a paginas web](https://aulavirtual.iesciudadjardin.es/), 
 Tambien se pueden poner imagenes:
 
 ![imagen] (http://cdn01.ib.infobae.com/adjuntos/162/imagenes/014/014/0014014674.jpg 'Imagen ardilla')
+
+Tablas:
+
+| asrhftr | adrhnag j | rh6uj    |
+|---------|-----------|----------|
+| dsrtfhr | eqrgwethq | 4ge5 ywg |
+| rghergh | w4etq4r   | qwergqwe |
