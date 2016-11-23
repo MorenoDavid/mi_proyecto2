@@ -26,4 +26,4 @@ También en Markdown puedes poner código de cualquier lenguaje:
 
 ```
 
-Además puedes poner código en una misma línea: `gir comit -m "corregido fallo 6581"
+Además puedes poner código en una misma línea: `gir comit -m "corregido fallo 6581"`
