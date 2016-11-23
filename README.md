@@ -44,9 +44,9 @@ Y listas no ordenadas:
 Listas anidadas:
 
 1. akjegad
-    *rhgwer
-    *rhwerh
-     *jkfbhvsd
+    * rhgwer
+    * rhwerh
+      * jkfbhvsd
 2. segrher
-    *rghwet
-    *asrgqer
+    * rghwet
+    * asrgqer
