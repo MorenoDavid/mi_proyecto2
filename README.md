@@ -73,3 +73,11 @@ Y citas:
 
 > aerthdokmipuash46jb8y9bthjymniopm 
 >> ejirhg364un76ihrbej7uj7se6k5sjhrbvun6b7dhtsgifvxu tyhfdcdubukdvb
+
+---
+
+Listas de chequeo:
+
+- [] rhsdtnt
+- [x] gjiigh
+- [] 85789
